@@ -1,5 +1,5 @@
 # Yong Zi Ying: 30885027
-# assignment3: Tries and Tree
+# Assignment3: Tries and Tree
 # Grade: 20/20 HD 
 #%% Task 1
 class Node:
