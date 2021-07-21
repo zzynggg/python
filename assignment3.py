@@ -1,6 +1,5 @@
-# Yong Zi Ying
-# 30885027
-# assignment3
+# Yong Zi Ying: 30885027
+# assignment3: Tries and Tree
 #%% Task 1
 class Node:
     ''' This class is used to create node.
