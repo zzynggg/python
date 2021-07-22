@@ -1,4 +1,4 @@
-# author: Yong Zi Ying
+# Author: Yong Zi Ying
 # Grade: 84/90 HD
 """
 This is the combination of Task 1, Task2 and Task 3.

@@ -1,5 +1,5 @@
-# Yong Zi Ying: 30885027
-# Assignment 2: Dynamic Programming
+# Author: Yong Zi Ying
+# Dynamic Programming
 # Grade: 19.4/20 HD 
 #%% Task 1
 def best_schedule(weekly_income, competitions):

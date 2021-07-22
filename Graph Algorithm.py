@@ -1,5 +1,5 @@
-# Yong Zi Ying: 30885027
-# Assignment 4: Graph Algorithm
+# Author: Yong Zi Ying
+# Graph Algorithm
 # Grade: 18/20 HD
 #%% Task 1: Bellman Ford
 def best_trades(prices, starting_liquid, max_trades, townspeople): 

@@ -1,34 +1,16 @@
-# Yong Zi Ying: 30885027
-# Assignment Part 1 & Assignment Part 2
+# Yong Zi Ying
+# Part 1 & Part 2
 # Grade: Part 1 = 10/10 HD; Part 2 = 11/12 HD
 """
-Author: <Yong Zi Ying> (<30885027>)
+Author: <Yong Zi Ying> 
 
-In this assignment we implement the backend of an intelligent product
-search engine where potential customers can search a database of products
-characterised by different features taking into account the customer's
-preferences.
-
-Functions for 1 and 2 are due in Part 1 of the assignment. Functions
-for 3 and 4 are due in Part 2.
-
-As a global conventions, to select products based on hard criteria,
-we will use Python objects representing conditions. These are represented
-as triples (i, c, v) where i is an integer feature index, c is a relation
-symbol in ['<', '<=' '==', '>=', '>', '!='], and v is some feature value.
-A product (represented by a feature vector) _satisfies_ condition (i, c, v)
-if its i-th feature value is in relation c with the value v. This will be
-implemented in a function 'satisfies'. For example:
+For example:
 >>> inexpensive = (4, '<=', 1000)
 >>> satisfies(['Nova 5T', 'Huawei', 6.26, 3750, 497], inexpensive)
 True
 >>> satisfies(['iPhone11', 'Apple', 6.1, 3110, 1280], inexpensive)
 False
-
-For more information see the function documentations below and the
-assignment sheet.
 """
-
 
 # Part 1 (due Week 6) #
 

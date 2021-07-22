@@ -1,5 +1,5 @@
-# Yong Zi Ying: 30885027
-# Assignment3: Tries and Tree
+# Author: Yong Zi Ying
+# Tries and Tree
 # Grade: 20/20 HD 
 #%% Task 1
 class Node:

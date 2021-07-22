@@ -1,4 +1,4 @@
-# author: Yong Zi Ying
+# Author: Yong Zi Ying
 # Grade: 82.43/95 HD
 """
 Task 1 is to create a dictionary class with some methods 

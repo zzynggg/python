@@ -1,5 +1,5 @@
-# Yong Zi Ying: 30885027
-# Assignment 1: Sorting Algorithm
+# Author: Yong Zi Ying
+# Sorting Algorithm
 # Grade: 19.6/20 HD
 #%% Task 1:Radix Sort
 def best_interval(transactions, t):
